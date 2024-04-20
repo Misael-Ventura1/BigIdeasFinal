@@ -6,5 +6,6 @@ Team Members: Misael Ventura, Dominic Servello, Yifei
 Emails: MIV48@pitt.edu, DAS476@pitt.edu, 
 Datasets: Allegheny County Supermarkets & Convenience Stores(Misael) https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 
+Parks(Dominic) https://data.wprdc.org/dataset/parks1
 
 Sidewalk to Street "Walkability" Ratio(Yifei) https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
