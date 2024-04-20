@@ -3,5 +3,8 @@ This is the Final project for CMPINF0010. We will be discussing the best neighbo
 
 Team Name: BoysWalkin
 Team Members: Misael Ventura, Dominic Servello, Yifei 
-Emails: MIV48@pitt.edu, 
-Datasets: 
+Emails: MIV48@pitt.edu, DAS476@pitt.edu, 
+Datasets: Allegheny County Supermarkets & Convenience Stores(Misael) https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
+
+
+Sidewalk to Street "Walkability" Ratio(Yifei) https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
